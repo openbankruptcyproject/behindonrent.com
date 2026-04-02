@@ -1,4 +1,5 @@
 User-agent: *
 Allow: /
 
+
 Sitemap: https://behindonrent.com/sitemap.xml
