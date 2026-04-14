@@ -1,21 +1,22 @@
-# Behind on Rent? -- Eviction Prevention Options [2026] -- Behindonrent
+# Behind on Rent? - Eviction Prevention Options [2026] - Behindonrent
 > Behind on rent and facing eviction? Emergency assistance, negotiation, and whether bankruptcy can help. 2026 guide.
 
 ## About
 behindonrent.com is part of the Open Bankruptcy Project (openbankruptcyproject.org), a 501(c)(3) nonprofit building free, open-source tools for bankruptcy court transparency.
 
 ## Key Pages
-- How Bankruptcy Affects Rent and Eviction -- Behindonrent: https://behindonrent.com/bankruptcy-and-rent.html
-- Emergency Rental Assistance -- Find Help in Your Area -- Behindonrent: https://behindonrent.com/emergency-rental-assistance.html
-- The Eviction Timeline -- From Missed Rent to Lockout -- Behindonrent: https://behindonrent.com/eviction-timeline.html
-- Behind on Rent? -- Eviction Prevention Options [2026] -- Behindonrent: https://behindonrent.com/
-- Free Legal Aid for Tenants Facing Eviction -- Behindonrent: https://behindonrent.com/legal-aid-resources.html
-- Negotiating With Your Landlord When You Are Behind on Rent -- Behindonrent: https://behindonrent.com/negotiating-with-landlord.html
-- Section 8 Tenant Protections -- Know Your Voucher Rights -- Behindonrent: https://behindonrent.com/section-8-protections.html
-- Security Deposit Rights -- Getting Your Money Back -- Behindonrent: https://behindonrent.com/security-deposit-rights.html
-- Tenant Rights by State -- Eviction Protections and Notice Requirements -- Behindonrent: https://behindonrent.com/tenant-rights-by-state.html
-- Tenant Rights When Behind on Rent -- Behindonrent: https://behindonrent.com/tenant-rights.html
-- Utility Assistance Programs for Renters -- Behindonrent: https://behindonrent.com/utility-assistance.html
+- How Bankruptcy Affects Rent and Eviction - Behindonrent: https://behindonrent.com/bankruptcy-and-rent.html
+- Emergency Rental Assistance - Find Help in Your Area - Behindonrent: https://behindonrent.com/emergency-rental-assistance.html
+- The Eviction Timeline - From Missed Rent to Lockout - Behindonrent: https://behindonrent.com/eviction-timeline.html
+- Behind on Rent? - Eviction Prevention Options [2026] - Behindonrent: https://behindonrent.com/
+- Free Legal Aid for Tenants Facing Eviction - Behindonrent: https://behindonrent.com/legal-aid-resources.html
+- Negotiating With Your Landlord When You Are Behind on Rent - Behindonrent: https://behindonrent.com/negotiating-with-landlord.html
+- Section 8 Tenant Protections - Know Your Voucher Rights - Behindonrent: https://behindonrent.com/section-8-protections.html
+- Security Deposit Rights - Getting Your Money Back - Behindonrent: https://behindonrent.com/security-deposit-rights.html
+- Tenant Rights by State - Eviction Protections and Notice Requirements - Behindonrent: https://behindonrent.com/tenant-rights-by-state.html
+- Tenant Rights When Behind on Rent - Behindonrent: https://behindonrent.com/tenant-rights.html
+- Utility Assistance Programs for Renters - Behindonrent: https://behindonrent.com/utility-assistance.html
+- Privacy Policy: https://behindonrent.com/privacy.html
 
 ## Contact
 - Website: https://openbankruptcyproject.org
