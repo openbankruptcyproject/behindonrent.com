@@ -5,19 +5,19 @@
 <meta charset="utf-8"/>
 <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
 <meta content="no-referrer-when-downgrade" name="referrer"/>
-<title>Security Deposit Rights - Getting Your Money Back - Behindonrent</title>
-<meta content="Learn about security deposit rights - getting your money back | behindonrent.com in our free 2026 guide." name="description"/>
-<meta content="security deposit rights, get deposit back, landlord security deposit, deposit return deadline, dispute security deposit" name="keywords"/>
-<link href="https://behindonrent.com/security-deposit-rights.html" rel="canonical"/>
-<meta content="Security Deposit Rights - Getting Your Money Back - Behindonrent" property="og:title"/>
-<meta content="Learn about security deposit rights - getting your money back | behindonrent.com in our free 2026 guide." property="og:description"/>
+<title>The Eviction Timeline - From Missed Rent to Lockout - Behindonrent</title>
+<meta content="Learn about the eviction timeline - from missed rent to lockout | behindonrent.com in our free 2026 guide." name="description"/>
+<meta content="eviction timeline, how long does eviction take, eviction process steps, eviction hearing, when do I have to leave" name="keywords"/>
+<link href="https://behindonrent.com/eviction-timeline.html" rel="canonical"/>
+<meta content="The Eviction Timeline - From Missed Rent to Lockout - Behindonrent" property="og:title"/>
+<meta content="Learn about the eviction timeline - from missed rent to lockout | behindonrent.com in our free 2026 guide." property="og:description"/>
 <meta content="article" property="og:type"/>
-<meta content="https://behindonrent.com/security-deposit-rights.html" property="og:url"/>
+<meta content="https://behindonrent.com/eviction-timeline.html" property="og:url"/>
 <meta content="behindonrent.com" property="og:site_name"/>
 <meta content="https://behindonrent.com/og-image.svg" property="og:image"/>
 <meta content="summary_large_image" name="twitter:card"/>
-<meta content="Security Deposit Rights - Getting Your Money Back - Behindonrent" name="twitter:title"/>
-<meta content="Learn about security deposit rights - getting your money back | behindonrent.com in our free 2026 guide." name="twitter:description"/>
+<meta content="The Eviction Timeline - From Missed Rent to Lockout - Behindonrent" name="twitter:title"/>
+<meta content="Learn about the eviction timeline - from missed rent to lockout | behindonrent.com in our free 2026 guide." name="twitter:description"/>
 <meta content="https://behindonrent.com/og-image.svg" name="twitter:image"/>
 <meta content="#0d1117" name="theme-color"/>
 <link href="/favicon.svg" rel="icon" type="image/svg+xml"/>
@@ -31,13 +31,13 @@ gtag('js',new Date());
 </script>
 <!-- BTN:GA4:END -->
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"Article","headline":"Security Deposit Rights - Getting Your Money Back","datePublished":"2026-03-31","dateModified":"2026-03-31","author":{"@type":"Organization","name":"Open Bankruptcy Project"},"publisher":{"@type":"Organization","name":"Open Bankruptcy Project","url":"https://openbankruptcyproject.org"}}
+{"@context":"https://schema.org","@type":"Article","headline":"The Eviction Timeline - From Missed Rent to Lockout","datePublished":"2026-03-31","dateModified":"2026-03-31","author":{"@type":"Organization","name":"Open Bankruptcy Project"},"publisher":{"@type":"Organization","name":"Open Bankruptcy Project","url":"https://openbankruptcyproject.org"}}
 </script>
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Can my landlord keep my deposit for cleaning?","acceptedAnswer":{"@type":"Answer","text":"Only if the unit was left significantly dirtier than when you moved in. Normal cleaning between tenants is the landlord's cost. If you left the unit in reasonable condition, a cleaning deduction is not justified. Professional cleaning charges should be supported by receipts."}},{"@type":"Question","name":"What if my landlord does not return my deposit at all?","acceptedAnswer":{"@type":"Answer","text":"Send a written demand letter via certified mail. If no response within 14 days, file in small claims court. Most states penalize landlords who fail to return deposits or provide an itemized statement within the legal deadline - penalties often include 2-3x the deposit amount plus attorney fees."}},{"@type":"Question","name":"Can my landlord deduct for painting?","acceptedAnswer":{"@type":"Answer","text":"Generally no. Repainting between tenants is considered normal wear and tear in most states. The exception is if you painted the walls an unusual color without permission or caused damage to the paint beyond normal aging (like crayon drawings or smoke damage)."}}]}
+{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How long does an eviction take?","acceptedAnswer":{"@type":"Answer","text":"From the first missed payment to physical lockout, the process typically takes 45-90 days. In tenant-friendly states (New York, California, New Jersey), it can take 3-6 months or longer. In landlord-friendly states (Texas, Georgia), it can be as fast as 3-4 weeks."}},{"@type":"Question","name":"Can I stop an eviction once it is filed?","acceptedAnswer":{"@type":"Answer","text":"Yes. You can pay the full amount owed (in states with a right to cure), negotiate a settlement with the landlord, raise legal defenses at the hearing, or file bankruptcy to trigger the automatic stay. An eviction filing does not mean you will be evicted."}},{"@type":"Question","name":"Does an eviction go on my record?","acceptedAnswer":{"@type":"Answer","text":"An eviction filing appears in court records and can be found by future landlords through tenant screening services. Even if you win or settle, the filing may still appear. Some states have enacted laws to seal eviction records in certain circumstances. Check your state's rules."}}]}
 </script>
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "WebPage", "name": "Security Deposit Rights - Getting Your Money Back", "speakable": {"@type": "SpeakableSpecification", "cssSelector": ["h1", ".subtitle", ".faq-item h3", ".faq-item p"]}, "url": "https://behindonrent.com/security-deposit-rights.html"}
+{"@context": "https://schema.org", "@type": "WebPage", "name": "The Eviction Timeline - From Missed Rent to Lockout", "speakable": {"@type": "SpeakableSpecification", "cssSelector": ["h1", ".subtitle", ".faq-item h3", ".faq-item p"]}, "url": "https://behindonrent.com/eviction-timeline.html"}
 </script>
 <script type="application/ld+json">
 {
@@ -55,14 +55,14 @@ gtag('js',new Date());
         {
           "@type": "ListItem",
           "position": 2,
-          "name": "Security Deposit Rights - Getting Your Money Back | behindonrent.com",
+          "name": "The Eviction Timeline - From Missed Rent to Lockout | behindonrent.com",
           "item": "https://behindonrent.com"
         },
         {
           "@type": "ListItem",
           "position": 3,
-          "name": "Security Deposit Rights - Getting Your Money Back",
-          "item": "https://behindonrent.com/security-deposit-rights.html"
+          "name": "The Eviction Timeline - From Missed Rent to Lockout",
+          "item": "https://behindonrent.com/eviction-timeline.html"
         }
       ]
     }
@@ -116,71 +116,50 @@ main{padding:0}
 @media(max-width:600px){.container{padding:1rem}.content-section{padding:1rem 1.25rem}
   header h1{font-size:1.6rem}}
 </style>
-<link href="https://behindonrent.com/security-deposit-rights.html" hreflang="en" rel="alternate"/>
-<link href="https://behindonrent.com/security-deposit-rights-es.html" hreflang="es" rel="alternate"/>
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "NonprofitOrganization",
-  "name": "Open Bankruptcy Project",
-  "alternateName": "OBP",
-  "url": "https://openbankruptcyproject.org",
-  "email": "info@openbankruptcyproject.org",
-  "taxID": "41-5159631",
-  "nonprofitStatus": "Nonprofit501c3",
-  "description": "The Open Bankruptcy Project is a 501(c)(3) nonprofit providing free tools, research, and consumer guides to help people navigate the federal bankruptcy system. We also conduct and publish empirical research on how the system actually works for consumers and share findings with rule-making bodies, regulators, and the public.",
-  "address": {
-    "@type": "PostalAddress",
-    "streetAddress": "1000 W 100th St",
-    "addressLocality": "Kansas City",
-    "addressRegion": "MO",
-    "postalCode": "64114",
-    "addressCountry": "US"
-  }
-}
-</script>
+<link href="https://behindonrent.com/eviction-timeline.html" hreflang="en" rel="alternate"/>
+<link href="https://behindonrent.com/eviction-timeline-es.html" hreflang="es" rel="alternate"/>
 </head>
 <body>
 <header>
-<h1>Security Deposit Rights - Getting Your Money Back</h1>
-<p class="subtitle">What your landlord must do with your deposit and when to fight</p>
+<h1>The Eviction Timeline - From Missed Rent to Lockout</h1>
+<p class="subtitle">Understanding each step so you know where you stand</p>
 </header>
 <div class="container">
-<nav class="breadcrumb"><a href="/">behindonrent.com</a> › Security Deposit Rights - Getting Your Money Back</nav>
+<nav class="breadcrumb"><a href="/">behindonrent.com</a> › The Eviction Timeline - From Missed Rent to Lockout</nav>
 <main id="main-content">
 <div class="content-section">
-<h2>State Return Deadlines</h2>
-<p>Every state sets a maximum time the landlord has to return your deposit after move-out. Common deadlines: <strong>14 days</strong> (Hawaii, Michigan), <strong>21 days</strong> (California), <strong>30 days</strong> (Florida, Illinois, Missouri, Texas, many others), <strong>45 days</strong> (Maryland), <strong>60 days</strong> (Alabama). If your landlord misses the deadline, many states impose penalties - sometimes 2-3x the deposit amount.</p>
+<h2>Stage 1: Missed Payment (Day 1)</h2>
+<p>Rent is typically due on the 1st. Many leases have a grace period (3-5 days) before a late fee applies. Missing the due date does not trigger eviction - the landlord must follow a legal process. Use this time to communicate with your landlord, explore <a href="/emergency-rental-assistance.html">emergency rental assistance</a>, and understand your options.</p>
 </div>
 <div class="content-section">
-<h2>What Landlords Can Deduct</h2>
-<p>Legitimate deductions include: unpaid rent, damage beyond normal wear and tear, and costs specified in the lease. <strong>Normal wear and tear</strong> is NOT deductible: faded paint, worn carpet, minor scuffs, loose door handles, dusty blinds. Damage IS deductible: holes in walls, broken fixtures, stains that require replacement, pet damage. The landlord must provide an itemized list of deductions with receipts.</p>
+<h2>Stage 2: Notice to Pay or Quit (Days 5-15)</h2>
+<p>After the grace period, the landlord serves a written notice - usually "pay or quit" within 3-14 days depending on your state. This is NOT an eviction - it is a warning. In states with a right to cure, paying the full amount within this window stops the process entirely. Even without a right to cure, contacting your landlord with a payment plan may prevent the next step.</p>
 </div>
 <div class="content-section">
-<h2>How to Protect Your Deposit</h2>
-<p><strong>Move-in:</strong> Document everything with photos and video. Complete a move-in checklist with the landlord. Note every existing scratch, stain, and defect. <strong>Move-out:</strong> Clean thoroughly, repair any damage you caused, take photos of every room. Do a walkthrough with the landlord if possible. Send your forwarding address in writing. Keep all documentation for at least 3 years.</p>
+<h2>Stage 3: Court Filing (Days 15-30)</h2>
+<p>If you do not pay or vacate, the landlord files an eviction lawsuit (called "unlawful detainer," "forcible entry and detainer," or "summary process" depending on your state). You will be served with court papers and a hearing date. You MUST respond and appear in court - failure to appear usually results in a <a href="https://defaultjudgment.org/" title="default judgment">default judgment</a> against you.</p>
 </div>
 <div class="content-section">
-<h2>Disputing Unfair Deductions</h2>
-<p>If the landlord deducts too much: send a written demand letter citing your state's deposit law and the specific deductions you dispute. Include your move-in photos. Give them 7-14 days to respond. If they do not return the disputed amount, file a claim in small claims court. Security deposit cases are among the most common small claims cases, and tenants frequently win when they have documentation.</p>
+<h2>Stage 4: Court Hearing (Days 30-60)</h2>
+<p>At the hearing, both sides present their case. You can raise defenses: landlord did not follow proper notice procedures, the property is uninhabitable, retaliation, or discrimination. Even if you lose, many courts allow 5-30 days before the order becomes enforceable. Some courts will approve a payment plan at this stage if both parties agree.</p>
 </div>
 <div class="content-section">
-<h2>Small Claims Court for Deposits</h2>
-<p>Small claims court is designed for cases like this - filing fees are typically $30-75, no lawyer is needed, and hearings take 15-30 minutes. Bring: your lease, move-in photos, move-out photos, the itemized deduction list, your demand letter, and any correspondence. If your landlord missed the return deadline or failed to itemize, many states award you automatic penalties (2x or 3x the deposit).</p>
+<h2>Stage 5: Writ of Possession and Lockout (Days 45-90)</h2>
+<p>If the judge rules for the landlord, a writ of possession is issued. The sheriff or marshal will post a final notice (24-72 hours in most states) and then physically remove you and your belongings if you have not left. This is the actual eviction. The total timeline from missed rent to lockout is typically 45-90 days, sometimes longer in tenant-friendly jurisdictions.</p>
 </div>
 <div class="faq-section">
 <h2>Frequently Asked Questions</h2>
 <div class="faq-item">
-<h3>Can my landlord keep my deposit for cleaning?</h3>
-<p>Only if the unit was left significantly dirtier than when you moved in. Normal cleaning between tenants is the landlord's cost. If you left the unit in reasonable condition, a cleaning deduction is not justified. Professional cleaning charges should be supported by receipts.</p>
+<h3>How long does an eviction take?</h3>
+<p>From the first missed payment to physical lockout, the process typically takes 45-90 days. In tenant-friendly states (New York, California, New Jersey), it can take 3-6 months or longer. In landlord-friendly states (Texas, Georgia), it can be as fast as 3-4 weeks.</p>
 </div>
 <div class="faq-item">
-<h3>What if my landlord does not return my deposit at all?</h3>
-<p>Send a written demand letter via certified mail. If no response within 14 days, file in small claims court. Most states penalize landlords who fail to return deposits or provide an itemized statement within the legal deadline - penalties often include 2-3x the deposit amount plus attorney fees.</p>
+<h3>Can I stop an eviction once it is filed?</h3>
+<p>Yes. You can pay the full amount owed (in states with a right to cure), negotiate a settlement with the landlord, raise legal defenses at the hearing, or file bankruptcy to trigger the <a href="https://automaticstay.org" rel="noopener" target="_blank" title="Automatic Stay in Bankruptcy - Open Bankruptcy Project">automatic stay</a>. An eviction filing does not mean you will be evicted.</p>
 </div>
 <div class="faq-item">
-<h3>Can my landlord deduct for painting?</h3>
-<p>Generally no. Repainting between tenants is considered normal wear and tear in most states. The exception is if you painted the walls an unusual color without permission or caused damage to the paint beyond normal aging (like crayon drawings or smoke damage).</p>
+<h3>Does an eviction go on my record?</h3>
+<p>An eviction filing appears in court records and can be found by future landlords through tenant screening services. Even if you win or settle, the filing may still appear. Some states have enacted laws to seal eviction records in certain circumstances. Check your state's rules.</p>
 </div>
 </div>
 <div class="cta-box">
@@ -263,7 +242,7 @@ main{padding:0}
 </div>
 <!-- BTN:FOOTER:START -->
 <footer class="network-footer" role="contentinfo">
-<p><strong>Part of the Open Bankruptcy Project</strong></p>
+<p><strong>Part of the Bankruptcy Transparency Network</strong></p>
 <p>Real information, no strings.</p>
 <div class="links">
 <a href="https://1328f.com?utm_source=behindonrent.com&amp;utm_medium=referral&amp;utm_campaign=btn-network">Discharge Screener</a>
@@ -283,7 +262,7 @@ main{padding:0}
 <p class="disclaimer">Free bankruptcy education for the public interest. Not legal advice.
     If you need legal help, contact a licensed attorney in your state.
     A project of the <a href="https://openbankruptcyproject.org?utm_source=behindonrent.com&amp;utm_medium=referral&amp;utm_campaign=btn-network">Open Bankruptcy Project</a>,
-    a 501(c)(3) public charity (EIN 41-5159631).</p>
+    a 501(c)(3) nonprofit.</p>
 <p><a href="https://openbankruptcyproject.org/privacy.html?utm_source=behindonrent.com&amp;utm_medium=referral&amp;utm_campaign=btn-network">Privacy</a> |
      <a href="https://openbankruptcyproject.org/terms.html?utm_source=behindonrent.com&amp;utm_medium=referral&amp;utm_campaign=btn-network">Terms</a></p>
 <a href="https://github.com/sponsors/openbankruptcyproject" onmouseout="this.style.background='#bf3989'" onmouseover="this.style.background='#9e2c6f'" style="display:inline-block;background:#bf3989;color:#fff;padding:0.6rem 1.8rem;border-radius:6px;font-weight:600;font-size:0.95rem;text-decoration:none;transition:background 0.2s">♥ Sponsor</a>

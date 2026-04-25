@@ -5,19 +5,19 @@
 <meta charset="utf-8"/>
 <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
 <meta content="no-referrer-when-downgrade" name="referrer"/>
-<title>Security Deposit Rights - Getting Your Money Back - Behindonrent</title>
-<meta content="Learn about security deposit rights - getting your money back | behindonrent.com in our free 2026 guide." name="description"/>
-<meta content="security deposit rights, get deposit back, landlord security deposit, deposit return deadline, dispute security deposit" name="keywords"/>
-<link href="https://behindonrent.com/security-deposit-rights.html" rel="canonical"/>
-<meta content="Security Deposit Rights - Getting Your Money Back - Behindonrent" property="og:title"/>
-<meta content="Learn about security deposit rights - getting your money back | behindonrent.com in our free 2026 guide." property="og:description"/>
+<title>How Bankruptcy Affects Rent and Eviction - Behindonrent</title>
+<meta content="Learn about how bankruptcy affects rent and eviction | behindonrent.com in our free 2026 guide. Clear explanations, real data, and practical steps. S power and limits, lease treatment in chapter 7 and 13, and when filing helps." name="description"/>
+<meta content="bankruptcy and rent, automatic stay eviction, chapter 13 back rent, file bankruptcy stop eviction, can bankruptcy help with rent" name="keywords"/>
+<link href="https://behindonrent.com/bankruptcy-and-rent.html" rel="canonical"/>
+<meta content="How Bankruptcy Affects Rent and Eviction - Behindonrent" property="og:title"/>
+<meta content="Learn about how bankruptcy affects rent and eviction | behindonrent.com in our free 2026 guide. Clear explanations, real data, and practical steps." property="og:description"/>
 <meta content="article" property="og:type"/>
-<meta content="https://behindonrent.com/security-deposit-rights.html" property="og:url"/>
+<meta content="https://behindonrent.com/bankruptcy-and-rent.html" property="og:url"/>
 <meta content="behindonrent.com" property="og:site_name"/>
 <meta content="https://behindonrent.com/og-image.svg" property="og:image"/>
 <meta content="summary_large_image" name="twitter:card"/>
-<meta content="Security Deposit Rights - Getting Your Money Back - Behindonrent" name="twitter:title"/>
-<meta content="Learn about security deposit rights - getting your money back | behindonrent.com in our free 2026 guide." name="twitter:description"/>
+<meta content="How Bankruptcy Affects Rent and Eviction - Behindonrent" name="twitter:title"/>
+<meta content="Learn about how bankruptcy affects rent and eviction | behindonrent.com in our free 2026 guide. Clear explanations, real data, and practical steps." name="twitter:description"/>
 <meta content="https://behindonrent.com/og-image.svg" name="twitter:image"/>
 <meta content="#0d1117" name="theme-color"/>
 <link href="/favicon.svg" rel="icon" type="image/svg+xml"/>
@@ -31,13 +31,13 @@ gtag('js',new Date());
 </script>
 <!-- BTN:GA4:END -->
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"Article","headline":"Security Deposit Rights - Getting Your Money Back","datePublished":"2026-03-31","dateModified":"2026-03-31","author":{"@type":"Organization","name":"Open Bankruptcy Project"},"publisher":{"@type":"Organization","name":"Open Bankruptcy Project","url":"https://openbankruptcyproject.org"}}
+{"@context":"https://schema.org","@type":"Article","headline":"How Bankruptcy Affects Rent and Eviction","datePublished":"2026-03-31","dateModified":"2026-03-31","author":{"@type":"Organization","name":"Open Bankruptcy Project"},"publisher":{"@type":"Organization","name":"Open Bankruptcy Project","url":"https://openbankruptcyproject.org"}}
 </script>
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Can my landlord keep my deposit for cleaning?","acceptedAnswer":{"@type":"Answer","text":"Only if the unit was left significantly dirtier than when you moved in. Normal cleaning between tenants is the landlord's cost. If you left the unit in reasonable condition, a cleaning deduction is not justified. Professional cleaning charges should be supported by receipts."}},{"@type":"Question","name":"What if my landlord does not return my deposit at all?","acceptedAnswer":{"@type":"Answer","text":"Send a written demand letter via certified mail. If no response within 14 days, file in small claims court. Most states penalize landlords who fail to return deposits or provide an itemized statement within the legal deadline - penalties often include 2-3x the deposit amount plus attorney fees."}},{"@type":"Question","name":"Can my landlord deduct for painting?","acceptedAnswer":{"@type":"Answer","text":"Generally no. Repainting between tenants is considered normal wear and tear in most states. The exception is if you painted the walls an unusual color without permission or caused damage to the paint beyond normal aging (like crayon drawings or smoke damage)."}}]}
+{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Can I file bankruptcy to stop an eviction?","acceptedAnswer":{"@type":"Answer","text":"Yes, if the landlord has not yet obtained a judgment for possession. The automatic stay halts the eviction process. If the landlord already has a judgment, the stay only applies if your state allows cure and you deposit rent with the court within 30 days."}},{"@type":"Question","name":"Will bankruptcy discharge past-due rent?","acceptedAnswer":{"@type":"Answer","text":"Yes. In Chapter 7, past-due rent is treated as an unsecured claim and is discharged. In Chapter 13, past-due rent can be paid through the repayment plan. Either way, you are not personally liable for pre-filing rent arrears after discharge."}},{"@type":"Question","name":"Can my landlord evict me for filing bankruptcy?","acceptedAnswer":{"@type":"Answer","text":"No. Filing bankruptcy is a protected right, and evicting a tenant solely for filing bankruptcy may violate the automatic stay and anti-discrimination provisions (11 U.S.C. 525). However, the landlord can evict for post-filing defaults or other lease violations."}}]}
 </script>
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "WebPage", "name": "Security Deposit Rights - Getting Your Money Back", "speakable": {"@type": "SpeakableSpecification", "cssSelector": ["h1", ".subtitle", ".faq-item h3", ".faq-item p"]}, "url": "https://behindonrent.com/security-deposit-rights.html"}
+{"@context": "https://schema.org", "@type": "WebPage", "name": "How Bankruptcy Affects Rent and Eviction", "speakable": {"@type": "SpeakableSpecification", "cssSelector": ["h1", ".subtitle", ".faq-item h3", ".faq-item p"]}, "url": "https://behindonrent.com/bankruptcy-and-rent.html"}
 </script>
 <script type="application/ld+json">
 {
@@ -55,14 +55,14 @@ gtag('js',new Date());
         {
           "@type": "ListItem",
           "position": 2,
-          "name": "Security Deposit Rights - Getting Your Money Back | behindonrent.com",
+          "name": "How Bankruptcy Affects Rent and Eviction | behindonrent.com",
           "item": "https://behindonrent.com"
         },
         {
           "@type": "ListItem",
           "position": 3,
-          "name": "Security Deposit Rights - Getting Your Money Back",
-          "item": "https://behindonrent.com/security-deposit-rights.html"
+          "name": "How Bankruptcy Affects Rent and Eviction",
+          "item": "https://behindonrent.com/bankruptcy-and-rent.html"
         }
       ]
     }
@@ -116,75 +116,50 @@ main{padding:0}
 @media(max-width:600px){.container{padding:1rem}.content-section{padding:1rem 1.25rem}
   header h1{font-size:1.6rem}}
 </style>
-<link href="https://behindonrent.com/security-deposit-rights.html" hreflang="en" rel="alternate"/>
-<link href="https://behindonrent.com/security-deposit-rights-es.html" hreflang="es" rel="alternate"/>
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "NonprofitOrganization",
-  "name": "Open Bankruptcy Project",
-  "alternateName": "OBP",
-  "url": "https://openbankruptcyproject.org",
-  "email": "info@openbankruptcyproject.org",
-  "taxID": "41-5159631",
-  "nonprofitStatus": "Nonprofit501c3",
-  "description": "The Open Bankruptcy Project is a 501(c)(3) nonprofit providing free tools, research, and consumer guides to help people navigate the federal bankruptcy system. We also conduct and publish empirical research on how the system actually works for consumers and share findings with rule-making bodies, regulators, and the public.",
-  "address": {
-    "@type": "PostalAddress",
-    "streetAddress": "1000 W 100th St",
-    "addressLocality": "Kansas City",
-    "addressRegion": "MO",
-    "postalCode": "64114",
-    "addressCountry": "US"
-  }
-}
-</script>
+<link href="https://behindonrent.com/bankruptcy-and-rent.html" hreflang="en" rel="alternate"/>
+<link href="https://behindonrent.com/bankruptcy-and-rent-es.html" hreflang="es" rel="alternate"/>
 </head>
 <body>
 <header>
-<h1>Security Deposit Rights - Getting Your Money Back</h1>
-<p class="subtitle">What your landlord must do with your deposit and when to fight</p>
+<h1>How Bankruptcy Affects Rent and Eviction</h1>
+<p class="subtitle">The automatic stay, lease rejection, and catching up on rent</p>
 </header>
 <div class="container">
-<nav class="breadcrumb"><a href="/">behindonrent.com</a> › Security Deposit Rights - Getting Your Money Back</nav>
+<nav class="breadcrumb"><a href="/">behindonrent.com</a> › How Bankruptcy Affects Rent and Eviction</nav>
 <main id="main-content">
 <div class="content-section">
-<h2>State Return Deadlines</h2>
-<p>Every state sets a maximum time the landlord has to return your deposit after move-out. Common deadlines: <strong>14 days</strong> (Hawaii, Michigan), <strong>21 days</strong> (California), <strong>30 days</strong> (Florida, Illinois, Missouri, Texas, many others), <strong>45 days</strong> (Maryland), <strong>60 days</strong> (Alabama). If your landlord misses the deadline, many states impose penalties - sometimes 2-3x the deposit amount.</p>
+<h2>The Automatic Stay and Eviction</h2>
+<p>Filing bankruptcy triggers the <a href="https://automaticstay.org">automatic stay</a> (11 U.S.C. 362), which immediately stops most eviction proceedings. However, there is a critical exception: if the landlord already has a judgment for possession before you file, the <a href="https://automaticstay.org" rel="noopener" target="_blank" title="Automatic Stay in Bankruptcy - Open Bankruptcy Project">automatic stay</a> does not stop the eviction unless your state law allows you to cure the default (and you deposit past-due rent with the court within 30 days of filing).</p>
 </div>
 <div class="content-section">
-<h2>What Landlords Can Deduct</h2>
-<p>Legitimate deductions include: unpaid rent, damage beyond normal wear and tear, and costs specified in the lease. <strong>Normal wear and tear</strong> is NOT deductible: faded paint, worn carpet, minor scuffs, loose door handles, dusty blinds. Damage IS deductible: holes in walls, broken fixtures, stains that require replacement, pet damage. The landlord must provide an itemized list of deductions with receipts.</p>
+<h2>Chapter 7 and Leases</h2>
+<p>In <a href="https://whatischapter7.com/" title="Chapter 7">Chapter 7</a>, you have 60 days to assume (keep) or reject your lease. If you assume, you must cure all defaults. If you reject (or do nothing), the lease is terminated. Past-due rent becomes an unsecured claim and is discharged. This can help if you want to leave a lease you cannot afford - the <a href="https://bankruptcydischarge.org/" title="discharge">discharge</a> eliminates the remaining rent obligation.</p>
 </div>
 <div class="content-section">
-<h2>How to Protect Your Deposit</h2>
-<p><strong>Move-in:</strong> Document everything with photos and video. Complete a move-in checklist with the landlord. Note every existing scratch, stain, and defect. <strong>Move-out:</strong> Clean thoroughly, repair any damage you caused, take photos of every room. Do a walkthrough with the landlord if possible. Send your forwarding address in writing. Keep all documentation for at least 3 years.</p>
+<h2>Chapter 13 and Catching Up</h2>
+<p><a href="https://chapter7vs13.org/" title="Chapter 13">Chapter 13</a> can be powerful for tenants: you can cure rent arrears through the 3-5 year <a href="https://chapter13plan.org" rel="noopener" target="_blank" title="Chapter 13 Repayment Plan - Open Bankruptcy Project">repayment plan</a> while continuing to live in the unit. The <a href="https://automaticstay.org" rel="noopener" target="_blank" title="Automatic Stay in Bankruptcy - Open Bankruptcy Project">automatic stay</a> stops eviction while the plan is being confirmed. This works best when the landlord has not yet obtained a judgment for possession and you have income to fund a plan.</p>
 </div>
 <div class="content-section">
-<h2>Disputing Unfair Deductions</h2>
-<p>If the landlord deducts too much: send a written demand letter citing your state's deposit law and the specific deductions you dispute. Include your move-in photos. Give them 7-14 days to respond. If they do not return the disputed amount, file a claim in small claims court. Security deposit cases are among the most common small claims cases, and tenants frequently win when they have documentation.</p>
-</div>
-<div class="content-section">
-<h2>Small Claims Court for Deposits</h2>
-<p>Small claims court is designed for cases like this - filing fees are typically $30-75, no lawyer is needed, and hearings take 15-30 minutes. Bring: your lease, move-in photos, move-out photos, the itemized deduction list, your demand letter, and any correspondence. If your landlord missed the return deadline or failed to itemize, many states award you automatic penalties (2x or 3x the deposit).</p>
+<h2>Practical Considerations</h2>
+<p>Filing bankruptcy to stop an eviction only makes sense if you have a plan to stay current going forward. If your income cannot support the rent, bankruptcy only delays the inevitable. It may be better to use bankruptcy to <a href="https://bankruptcydischarge.org/" title="discharge">discharge</a> other debts (credit cards, medical bills) that are consuming income you need for rent. Consider the full picture with a <a href="https://1328f.com">discharge eligibility check</a>.</p>
 </div>
 <div class="faq-section">
 <h2>Frequently Asked Questions</h2>
 <div class="faq-item">
-<h3>Can my landlord keep my deposit for cleaning?</h3>
-<p>Only if the unit was left significantly dirtier than when you moved in. Normal cleaning between tenants is the landlord's cost. If you left the unit in reasonable condition, a cleaning deduction is not justified. Professional cleaning charges should be supported by receipts.</p>
+<h3>Can I file bankruptcy to stop an eviction?</h3>
+<p>Yes, if the landlord has not yet obtained a judgment for possession. The <a href="https://automaticstay.org" rel="noopener" target="_blank" title="Automatic Stay in Bankruptcy - Open Bankruptcy Project">automatic stay</a> halts the eviction process. If the landlord already has a judgment, the stay only applies if your state allows cure and you deposit rent with the court within 30 days.</p>
 </div>
 <div class="faq-item">
-<h3>What if my landlord does not return my deposit at all?</h3>
-<p>Send a written demand letter via certified mail. If no response within 14 days, file in small claims court. Most states penalize landlords who fail to return deposits or provide an itemized statement within the legal deadline - penalties often include 2-3x the deposit amount plus attorney fees.</p>
+<h3>Will bankruptcy discharge past-due rent?</h3>
+<p>Yes. In <a href="https://whatischapter7.com/" title="Chapter 7">Chapter 7</a>, past-due rent is treated as an unsecured claim and is discharged. In <a href="https://chapter7vs13.org/" title="Chapter 13">Chapter 13</a>, past-due rent can be paid through the <a href="https://chapter13plan.org" rel="noopener" target="_blank" title="Chapter 13 Repayment Plan - Open Bankruptcy Project">repayment plan</a>. Either way, you are not personally liable for pre-filing rent arrears after discharge.</p>
 </div>
 <div class="faq-item">
-<h3>Can my landlord deduct for painting?</h3>
-<p>Generally no. Repainting between tenants is considered normal wear and tear in most states. The exception is if you painted the walls an unusual color without permission or caused damage to the paint beyond normal aging (like crayon drawings or smoke damage).</p>
+<h3>Can my landlord evict me for filing bankruptcy?</h3>
+<p>No. Filing bankruptcy is a protected right, and evicting a tenant solely for filing bankruptcy may violate the <a href="https://automaticstay.org" rel="noopener" target="_blank" title="Automatic Stay in Bankruptcy - Open Bankruptcy Project">automatic stay</a> and anti-discrimination provisions (11 U.S.C. 525). However, the landlord can evict for post-filing defaults or other lease violations.</p>
 </div>
 </div>
 <div class="cta-box">
-<p>Check your bankruptcy <a href="https://bankruptcydischarge.org/" title="discharge">discharge</a> eligibility with our free screening tool.</p>
+<p>Check your bankruptcy discharge eligibility with our free screening tool.</p>
 <a class="btn" href="https://1328f.com?utm_source=behindonrent.com&amp;utm_medium=referral&amp;utm_campaign=btn-network">Free Discharge Screener</a>
 </div>
 <div class="about-data">
@@ -263,7 +238,7 @@ main{padding:0}
 </div>
 <!-- BTN:FOOTER:START -->
 <footer class="network-footer" role="contentinfo">
-<p><strong>Part of the Open Bankruptcy Project</strong></p>
+<p><strong>Part of the Bankruptcy Transparency Network</strong></p>
 <p>Real information, no strings.</p>
 <div class="links">
 <a href="https://1328f.com?utm_source=behindonrent.com&amp;utm_medium=referral&amp;utm_campaign=btn-network">Discharge Screener</a>
@@ -283,7 +258,7 @@ main{padding:0}
 <p class="disclaimer">Free bankruptcy education for the public interest. Not legal advice.
     If you need legal help, contact a licensed attorney in your state.
     A project of the <a href="https://openbankruptcyproject.org?utm_source=behindonrent.com&amp;utm_medium=referral&amp;utm_campaign=btn-network">Open Bankruptcy Project</a>,
-    a 501(c)(3) public charity (EIN 41-5159631).</p>
+    a 501(c)(3) nonprofit.</p>
 <p><a href="https://openbankruptcyproject.org/privacy.html?utm_source=behindonrent.com&amp;utm_medium=referral&amp;utm_campaign=btn-network">Privacy</a> |
      <a href="https://openbankruptcyproject.org/terms.html?utm_source=behindonrent.com&amp;utm_medium=referral&amp;utm_campaign=btn-network">Terms</a></p>
 <a href="https://github.com/sponsors/openbankruptcyproject" onmouseout="this.style.background='#bf3989'" onmouseover="this.style.background='#9e2c6f'" style="display:inline-block;background:#bf3989;color:#fff;padding:0.6rem 1.8rem;border-radius:6px;font-weight:600;font-size:0.95rem;text-decoration:none;transition:background 0.2s">♥ Sponsor</a>
